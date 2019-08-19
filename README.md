@@ -1,5 +1,5 @@
 # Xylon
-A simple voice assistant built entirely on Python. Supports Python 2+
+A simple voice assistant built entirely on Python. Built and tested on Python 2.7
 
 ### Required Modules
 
